@@ -1,0 +1,383 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Matrix",
+      "ano": 1999,
+      "genero": [
+        "ação",
+        "ficção científica"
+      ],
+      "nota": 8.7,
+      "poster": "https://placehold.co/300x450?text=Matrix",
+      "sinopse": "Um hacker descobre que a realidade em que vive é uma simulação criada por máquinas."
+    },
+    {
+      "id": 2,
+      "titulo": "Interestelar",
+      "ano": 2014,
+      "genero": [
+        "ficção científica",
+        "drama"
+      ],
+      "nota": 8.7,
+      "poster": "https://placehold.co/300x450?text=Interestelar",
+      "sinopse": "Astronautas atravessam um buraco de minhoca em busca de um novo lar para a humanidade."
+    },
+    {
+      "id": 3,
+      "titulo": "O Poderoso Chefão",
+      "ano": 1972,
+      "genero": [
+        "crime",
+        "drama"
+      ],
+      "nota": 9.2,
+      "poster": "https://placehold.co/300x450?text=Poderoso+Chefao",
+      "sinopse": "A saga de uma família mafiosa e a transição de poder entre pai e filho."
+    },
+    {
+      "id": 4,
+      "titulo": "Cidade de Deus",
+      "ano": 2002,
+      "genero": [
+        "crime",
+        "drama"
+      ],
+      "nota": 8.6,
+      "poster": "https://placehold.co/300x450?text=Cidade+de+Deus",
+      "sinopse": "Dois jovens seguem caminhos opostos numa favela do Rio de Janeiro dominada pelo tráfico."
+    },
+    {
+      "id": 5,
+      "titulo": "A Origem",
+      "ano": 2010,
+      "genero": [
+        "ação",
+        "ficção científica",
+        "suspense"
+      ],
+      "nota": 8.8,
+      "poster": "https://placehold.co/300x450?text=A+Origem",
+      "sinopse": "Um ladrão especialista em invadir sonhos recebe a missão de plantar uma ideia na mente de alguém."
+    },
+    {
+      "id": 6,
+      "titulo": "Parasita",
+      "ano": 2019,
+      "genero": [
+        "suspense",
+        "drama"
+      ],
+      "nota": 8.5,
+      "poster": "https://placehold.co/300x450?text=Parasita",
+      "sinopse": "Uma família pobre se infiltra aos poucos na vida de uma família rica."
+    },
+    {
+      "id": 7,
+      "titulo": "Clube da Luta",
+      "ano": 1999,
+      "genero": [
+        "drama",
+        "suspense"
+      ],
+      "nota": 8.8,
+      "poster": "https://placehold.co/300x450?text=Clube+da+Luta",
+      "sinopse": "Um homem insatisfeito com a vida forma um clube de lutas clandestino com um vendedor carismático."
+    },
+    {
+      "id": 8,
+      "titulo": "Toy Story",
+      "ano": 1995,
+      "genero": [
+        "animação",
+        "comédia",
+        "aventura"
+      ],
+      "nota": 8.3,
+      "poster": "https://placehold.co/300x450?text=Toy+Story",
+      "sinopse": "Os brinquedos de um garoto ganham vida quando ninguém está olhando."
+    },
+    {
+      "id": 9,
+      "titulo": "Mad Max: Estrada da Fúria",
+      "ano": 2015,
+      "genero": [
+        "ação",
+        "aventura",
+        "ficção científica"
+      ],
+      "nota": 8.1,
+      "poster": "https://placehold.co/300x450?text=Mad+Max",
+      "sinopse": "Num deserto pós-apocalíptico, uma fuga em alta velocidade desafia um tirano."
+    },
+    {
+      "id": 10,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "ano": 2001,
+      "genero": [
+        "fantasia",
+        "aventura"
+      ],
+      "nota": 8.9,
+      "poster": "https://placehold.co/300x450?text=Sociedade+do+Anel",
+      "sinopse": "Um hobbit herda um anel poderoso e parte numa jornada para destruí-lo."
+    },
+    {
+      "id": 11,
+      "titulo": "Pulp Fiction",
+      "ano": 1994,
+      "genero": [
+        "crime",
+        "drama"
+      ],
+      "nota": 8.9,
+      "poster": "https://placehold.co/300x450?text=Pulp+Fiction",
+      "sinopse": "Histórias de criminosos de Los Angeles se cruzam de forma inesperada."
+    },
+    {
+      "id": 12,
+      "titulo": "O Cavaleiro das Trevas",
+      "ano": 2008,
+      "genero": [
+        "ação",
+        "crime",
+        "drama"
+      ],
+      "nota": 9,
+      "poster": "https://placehold.co/300x450?text=Cavaleiro+das+Trevas",
+      "sinopse": "Batman enfrenta o Coringa, que mergulha Gotham no caos."
+    },
+    {
+      "id": 13,
+      "titulo": "Forrest Gump",
+      "ano": 1994,
+      "genero": [
+        "drama",
+        "romance"
+      ],
+      "nota": 8.8,
+      "poster": "https://placehold.co/300x450?text=Forrest+Gump",
+      "sinopse": "Um homem simples vive, sem perceber, alguns dos maiores momentos da história americana."
+    },
+    {
+      "id": 14,
+      "titulo": "Gladiador",
+      "ano": 2000,
+      "genero": [
+        "ação",
+        "drama",
+        "aventura"
+      ],
+      "nota": 8.5,
+      "poster": "https://placehold.co/300x450?text=Gladiador",
+      "sinopse": "Um general romano traído busca vingança como gladiador."
+    },
+    {
+      "id": 15,
+      "titulo": "O Silêncio dos Inocentes",
+      "ano": 1991,
+      "genero": [
+        "suspense",
+        "crime"
+      ],
+      "nota": 8.6,
+      "poster": "https://placehold.co/300x450?text=Silencio+dos+Inocentes",
+      "sinopse": "Uma agente do FBI pede ajuda a um canibal preso para capturar outro assassino."
+    },
+    {
+      "id": 16,
+      "titulo": "Vingadores: Ultimato",
+      "ano": 2019,
+      "genero": [
+        "ação",
+        "aventura",
+        "ficção científica"
+      ],
+      "nota": 8.4,
+      "poster": "https://placehold.co/300x450?text=Ultimato",
+      "sinopse": "Os heróis restantes tentam desfazer o estrago causado por Thanos."
+    },
+    {
+      "id": 17,
+      "titulo": "Os Intocáveis",
+      "ano": 2011,
+      "genero": [
+        "comédia",
+        "drama"
+      ],
+      "nota": 8.5,
+      "poster": "https://placehold.co/300x450?text=Os+Intocaveis",
+      "sinopse": "Um aristocrata tetraplégico contrata um cuidador inusitado, e os dois se tornam amigos."
+    },
+    {
+      "id": 18,
+      "titulo": "Divertida Mente",
+      "ano": 2015,
+      "genero": [
+        "animação",
+        "comédia",
+        "aventura"
+      ],
+      "nota": 8.1,
+      "poster": "https://placehold.co/300x450?text=Divertida+Mente",
+      "sinopse": "As emoções de uma garota vivem aventuras na cabeça dela durante uma mudança de cidade."
+    },
+    {
+      "id": 19,
+      "titulo": "A Viagem de Chihiro",
+      "ano": 2001,
+      "genero": [
+        "animação",
+        "fantasia",
+        "aventura"
+      ],
+      "nota": 8.6,
+      "poster": "https://placehold.co/300x450?text=Chihiro",
+      "sinopse": "Uma menina entra num mundo de espíritos e precisa trabalhar numa casa de banhos para salvar os pais."
+    },
+    {
+      "id": 20,
+      "titulo": "Os Suspeitos",
+      "ano": 1995,
+      "genero": [
+        "crime",
+        "suspense"
+      ],
+      "nota": 8.5,
+      "poster": "https://placehold.co/300x450?text=Os+Suspeitos",
+      "sinopse": "Um sobrevivente conta à polícia a história de um massacre ligado a um criminoso lendário."
+    },
+    {
+      "id": 21,
+      "titulo": "De Volta para o Futuro",
+      "ano": 1985,
+      "genero": [
+        "ficção científica",
+        "comédia",
+        "aventura"
+      ],
+      "nota": 8.5,
+      "poster": "https://placehold.co/300x450?text=De+Volta+para+o+Futuro",
+      "sinopse": "Um adolescente viaja no tempo num carro construído por um cientista e precisa garantir que seus pais se conheçam."
+    },
+    {
+      "id": 22,
+      "titulo": "Coco",
+      "ano": 2017,
+      "genero": [
+        "animação",
+        "aventura",
+        "fantasia"
+      ],
+      "nota": 8.4,
+      "poster": "https://placehold.co/300x450?text=Coco",
+      "sinopse": "Um menino que sonha ser músico viaja à Terra dos Mortos para descobrir a história da família."
+    },
+    {
+      "id": 23,
+      "titulo": "Whiplash",
+      "ano": 2014,
+      "genero": [
+        "drama",
+        "música"
+      ],
+      "nota": 8.5,
+      "poster": "https://placehold.co/300x450?text=Whiplash",
+      "sinopse": "Um jovem baterista se submete a um professor implacável em busca da perfeição."
+    },
+    {
+      "id": 24,
+      "titulo": "Blade Runner 2049",
+      "ano": 2017,
+      "genero": [
+        "ficção científica",
+        "suspense",
+        "drama"
+      ],
+      "nota": 8,
+      "poster": "https://placehold.co/300x450?text=Blade+Runner+2049",
+      "sinopse": "Um novo caçador de androides descobre um segredo capaz de mudar a sociedade."
+    },
+    {
+      "id": 25,
+      "titulo": "Se Beber, Não Case!",
+      "ano": 2009,
+      "genero": [
+        "comédia"
+      ],
+      "nota": 7.7,
+      "poster": "https://placehold.co/300x450?text=Se+Beber+Nao+Case",
+      "sinopse": "Três amigos acordam após uma despedida de solteiro em Las Vegas sem lembrar de nada, e o noivo desapareceu."
+    },
+    {
+      "id": 26,
+      "titulo": "Truque de Mestre",
+      "ano": 2013,
+      "genero": [
+        "suspense",
+        "crime",
+        "aventura"
+      ],
+      "nota": 7.3,
+      "poster": "https://placehold.co/300x450?text=Truque+de+Mestre",
+      "sinopse": "Quatro ilusionistas realizam assaltos durante seus shows, e o FBI tenta descobrir como."
+    },
+    {
+      "id": 27,
+      "titulo": "O Rei Leão",
+      "ano": 1994,
+      "genero": [
+        "animação",
+        "drama",
+        "aventura"
+      ],
+      "nota": 8.5,
+      "poster": "https://placehold.co/300x450?text=O+Rei+Leao",
+      "sinopse": "Um jovem leão foge após a morte do pai e precisa voltar para reivindicar seu lugar."
+    },
+    {
+      "id": 28,
+      "titulo": "Matrix Reloaded",
+      "ano": 2003,
+      "genero": [
+        "ação",
+        "ficção científica"
+      ],
+      "nota": 7.2,
+      "poster": "https://placehold.co/300x450?text=Matrix+Reloaded",
+      "sinopse": "Neo e seus aliados lutam para proteger Zion enquanto descobrem mais sobre a Matrix."
+    },
+    {
+      "id": 29,
+      "titulo": "Django Livre",
+      "ano": 2012,
+      "genero": [
+        "drama",
+        "aventura"
+      ],
+      "nota": 8.4,
+      "poster": "https://placehold.co/300x450?text=Django+Livre",
+      "sinopse": "Um ex-escravo se une a um caçador de recompensas para resgatar a esposa de um fazendeiro cruel."
+    },
+    {
+      "id": 30,
+      "titulo": "Up: Altas Aventuras",
+      "ano": 2009,
+      "genero": [
+        "animação",
+        "aventura",
+        "comédia"
+      ],
+      "nota": 8.3,
+      "poster": "https://placehold.co/300x450?text=Up",
+      "sinopse": "Um viúvo idoso amarra balões à casa e parte numa viagem com um jovem escoteiro."
+    }
+  ],
+  "favoritos": [
+    {
+      "filmeId": 2,
+      "id": 1
+    }
+  ]
+}

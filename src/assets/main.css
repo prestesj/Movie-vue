@@ -1,0 +1,28 @@
+@import 'tailwindcss';
+@plugin "daisyui" {
+  themes:
+    light --default,
+    dark --prefersdark;
+}
+
+/* 3. Ajustes globais mínimos */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+@keyframes batida {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.3);
+  }
+  50% {
+    transform: scale(1);
+  }
+  75% {
+    transform: scale(1.2);
+  }
+}
